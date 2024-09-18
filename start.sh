@@ -2,7 +2,7 @@
 
 iptables.sh
 
-VPNGATE_URL=http://www.vpngate.net/api/iphone/
+VPNGATE_URL=https://www.vpngate.net/api/iphone/
 
 function global_ip {
   curl -s inet-ip.info
